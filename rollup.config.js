@@ -9,6 +9,8 @@ export default {
       sourcemap: true,
     },
   ],
-  plugins: [typescript()],
+  plugins: [typescript({
+    tsconfig: './tsconfig.json',
+  })],
   external: ['react', 'react-dom'],
 }
