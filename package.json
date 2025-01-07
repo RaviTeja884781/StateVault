@@ -1,8 +1,8 @@
 {
   "name": "state-vault",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "module",
-  "description": "Turbo Utilities is a powerful utility library that offers a collection of high-performance functions for array and object manipulation in JavaScript. It consolidates a variety of commonly used methods, providing an all-in-one solution for developers seeking efficiency and simplicity in their code.",
+  "description": "A lightweight and powerful state management library for React applications that securely manages your application state.",
   "author": "Ravi Teja Ladi",
   "license": "MIT",
   "repository": "https://github.com/RaviTeja884781/turbo-utilities",
